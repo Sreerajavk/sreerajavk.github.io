@@ -2,7 +2,7 @@
 
     document.addEventListener('DOMContentLoaded', function(event) {
         var dataText = [
-            "Hi there, Iam  Sreeraj S",
+            "Hi there, I'm  Sreeraj S",
             "I'm a full-stack developer.",
             "I have strong knowledge in App development",
             "As well as in Nodejs and flutter",
