@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.fb10cb12.chunk.js",
-    "main.js.map": "/static/js/main.fb10cb12.chunk.js.map",
+    "main.js": "/static/js/main.a56a2f48.chunk.js",
+    "main.js.map": "/static/js/main.a56a2f48.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.67a84473.js",
     "runtime-main.js.map": "/static/js/runtime-main.67a84473.js.map",
-    "static/js/2.98a79f2f.chunk.js": "/static/js/2.98a79f2f.chunk.js",
-    "static/js/2.98a79f2f.chunk.js.map": "/static/js/2.98a79f2f.chunk.js.map",
+    "static/js/2.5cc36191.chunk.js": "/static/js/2.5cc36191.chunk.js",
+    "static/js/2.5cc36191.chunk.js.map": "/static/js/2.5cc36191.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ee1117f6c0133c1621b8343a5e314a32.js": "/precache-manifest.ee1117f6c0133c1621b8343a5e314a32.js",
+    "precache-manifest.68d7d7b99c02ae0c06458d9893eebfaa.js": "/precache-manifest.68d7d7b99c02ae0c06458d9893eebfaa.js",
     "service-worker.js": "/service-worker.js",
     "static/media/banner.jpg": "/static/media/banner.dcf2add0.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.912ec66d.svg",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.67a84473.js",
-    "static/js/2.98a79f2f.chunk.js",
-    "static/js/main.fb10cb12.chunk.js"
+    "static/js/2.5cc36191.chunk.js",
+    "static/js/main.a56a2f48.chunk.js"
   ]
 }
